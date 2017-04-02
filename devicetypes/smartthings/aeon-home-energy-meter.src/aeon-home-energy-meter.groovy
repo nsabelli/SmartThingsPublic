@@ -15,6 +15,8 @@
  *  Author: SmartThings
  *
  *  Date: 2013-05-30
+ *
+ *  04/02/2017 nsabelli Added custom comment
  */
 metadata {
 	definition (name: "Aeon Home Energy Meter", namespace: "smartthings", author: "SmartThings") {
