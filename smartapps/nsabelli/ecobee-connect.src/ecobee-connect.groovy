@@ -28,7 +28,7 @@ definition(
 		namespace: "nsabelli",
 		author: "SmartThings",
 		description: "Connect your Ecobee thermostat to SmartThings.",
-		category: "SmartThings Labs",
+		category: "My Apps",
 		iconUrl: "https://s3.amazonaws.com/smartapp-icons/Partner/ecobee.png",
 		iconX2Url: "https://s3.amazonaws.com/smartapp-icons/Partner/ecobee@2x.png",
 		singleInstance: true
